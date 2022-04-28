@@ -1,0 +1,4 @@
+
+
+
+----> Test case file starts with fixtures (group of test cases) and contains test (indivizual test cases) functions within it.
